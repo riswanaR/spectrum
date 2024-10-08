@@ -1,0 +1,38 @@
+.spectrum-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+.row {
+    display: flex;
+    gap: 10px;
+}
+.color-box {
+    width: 60px;
+    height: 100px;
+}
+.color1 { background-color: #4d4d4f; }
+.color2 { background-color: #007b70; }
+.color3 { background-color: #009d5f; }
+.color4 { background-color: #00ff3c; }
+.color5 { background-color: #e5e5e5; }
+
+.color6 { background-color: #ff8c00; }
+.color7 { background-color: #ff4500; }
+.color8 { background-color: #ee82ee; }
+.color9 { background-color: #8a2be2; }
+.color10 { background-color: #0804e1; }
+.color11 { background-color: #7e16df; }
+.color12 { background-color: #7d7d77; }
+
+.color13 { background-color: #00ced1; }
+.color14 { background-color: #dcefa2; }
+.color15 { background-color: #ffdb88; }
+.color16 { background-color: #ff1493; }
+.color17 { background-color: #38031d; }
+.color18 { background-color: #84e2e3; }
+.color19 { background-color: #0b7a68; }
+.color20 { background-color: #483d8b; }
+.color21 { background-color: #251427; }
